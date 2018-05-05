@@ -1,7 +1,18 @@
 [user]
 	name = Al Smith
 	email = alexgwsmith@gmail.com
+	username = wolf-tickets
 [core]
-	excludesfile = /Users/Al/.gitignore_global
+	excludesfile = -/.gitignore_global
 [color]
 	ui = auto
+[github]
+	user = wolf-tickets
+	token = token
+
+[color "diff"]
+	meta = yellow bold
+	frag = magenta bold
+	old = red bold
+	new = green bold
+	whitespace = red reverse
