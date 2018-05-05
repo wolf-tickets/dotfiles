@@ -1,0 +1,7 @@
+[user]
+	name = Al Smith
+	email = alexgwsmith@gmail.com
+[core]
+	excludesfile = /Users/Al/.gitignore_global
+[color]
+	ui = auto
